@@ -1,0 +1,4 @@
+﻿  lab 4_2.cpp
+e:\учеба\2 course\алгоритмы\лабы\lab 4_2\lab 4_2\lab 4_2.cpp(235): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab 4_2.vcxproj -> E:\Учеба\2 course\Алгоритмы\Лабы\lab 4_2\Debug\lab 4_2.exe
+  lab 4_2.vcxproj -> E:\Учеба\2 course\Алгоритмы\Лабы\lab 4_2\Debug\lab 4_2.pdb (Full PDB)
